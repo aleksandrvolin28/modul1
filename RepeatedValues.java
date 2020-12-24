@@ -20,6 +20,6 @@ public class RepeatedValues {
                     b[i] = a[i];
                     a = b;
             }
-                System.out.print(n + " ");
+                System.out.print(n);
         }
     }
